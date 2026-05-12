@@ -31,17 +31,17 @@ Substituir controles manuais por uma solução digital integrada, facilitando a 
 
 ### 👥 Gestão de Alunos
 *Interface intuitiva para cadastro e consulta de membros.*
-![Cadastro de Alunos](screenshots/Cadastro_Alunos.png)
+![Cadastro de Alunos](screenshots/form_cadastro_atleta.png)
 
 ### 🎓 Graduação e Certificados
 *Processo de emissão de certificados após a troca de faixa.*
-![Emissão de Certificados](caminho/para/sua_imagem_certificados.png)
+![Emissão de Certificados](screenshots/emissao_certificado.png)
 *Resultado final: Certificado gerado automaticamente pelo sistema.*
-![Certificado Emitido](caminho/para/sua_imagem_certificado_final.png)
+![Certificado Emitido](screenshots/certificado_emitido.png)
 
 ### 💰 Controle Financeiro
 *Gestão de mensalidades e geração de recibos profissionais.*
-![Cobrança e Recibos](caminho/para/sua_imagem_financeiro.png)
+![Cobrança e Recibos](screenshots/mensalidade.png)
 
 ---
 
