@@ -41,6 +41,7 @@ Substituir controles manuais por uma solução digital integrada, facilitando a 
 
 ### 💰 Controle Financeiro
 *Gestão de mensalidades e geração de recibos profissionais.*
+
 ![Cobrança e Recibos](screenshots/mensalidade.png)
 
 ---
