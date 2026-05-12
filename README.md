@@ -1,72 +1,52 @@
-Sistema de Controle de Academia de Jiu-Jitsu
+ # 🥋 Sistema de Controle de Academia de Jiu-Jitsu
 
-Projeto desenvolvido em Microsoft Access com foco em gerenciamento administrativo, controle de alunos e organização de informações da academia.
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-BA141A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-273a61?style=for-the-badge&logo=microsoft-dot-net&logoColor=white)
 
-Objetivo
+Projeto robusto desenvolvido em **Microsoft Access** com foco na automação administrativa, controle de alunos e gestão financeira para academias de artes marciais.
 
-Automatizar processos administrativos e facilitar o controle operacional da academia de Jiu-Jitsu.
+## 🎯 Objetivo
+Substituir controles manuais por uma solução digital integrada, facilitando a tomada de decisão e a organização operacional do Dojô.
 
-Funcionalidades
-Cadastro de alunos
-Controle de mensalidades
-Controle de faixas
-Registro de pagamentos
-Relatórios administrativos
-Organização de dados
-Controle de presença
-Tecnologias Utilizadas
-Microsoft Access
-VBA
-SQL
-Excel
-Recursos Técnicos
-Modelagem de banco de dados relacional
-Formulários personalizados
-Consultas SQL
-Relatórios automatizados
-Automação de processos administrativos
-Capturas de Tela
-Tela Principal
+## 🚀 Funcionalidades Principais
+- **Gestão de Alunos:** Cadastro completo com histórico de graduações.
+- **Financeiro:** Controle de mensalidades, registro de pagamentos e emissão de recibos.
+- **Progressão de Faixas:** Monitoramento de tempo de treino e datas de graduação.
+- **Presença:** Registro automatizado para controle de frequência.
+- **Documentação:** Geração automática de contratos e certificados de graduação em PDF.
 
-# Sistema de Controle de Academia de Jiu-Jitsu
+## 🛠 Tecnologias e Recursos
+- **Backend:** Banco de dados relacional em Access.
+- **Lógica de Programação:** VBA (Visual Basic for Applications) para automação de formulários.
+- **Linguagem de Consulta:** SQL para relatórios e filtros dinâmicos.
+- **Integração:** Exportação de dados e relatórios para Excel.
 
-# Sistema de Controle de Academia de Jiu-Jitsu
+---
 
-Projeto desenvolvido em Microsoft Access.
+## 📸 Demonstração (Capturas de Tela)
 
-## Tela Principal
+### 🖥️ Dashboard Principal
+*Visão geral do sistema com acesso rápido aos módulos.*
+![Tela Principal](caminho/para/sua_imagem_principal.png)
 
-![Menu Principal](imagens/tela_principal.png)
+### 👥 Gestão de Alunos
+*Interface intuitiva para cadastro e consulta de membros.*
+![Cadastro de Alunos](caminho/para/sua_imagem_cadastro.png)
 
-## Cadastro de Alunos
+### 🎓 Graduação e Certificados
+*Processo de emissão de certificados após a troca de faixa.*
+![Emissão de Certificados](caminho/para/sua_imagem_certificados.png)
+*Resultado final: Certificado gerado automaticamente pelo sistema.*
+![Certificado Emitido](caminho/para/sua_imagem_certificado_final.png)
 
-![Cadastros](imagens/cadastro.png)
+### 💰 Controle Financeiro
+*Gestão de mensalidades e geração de recibos profissionais.*
+![Cobrança e Recibos](caminho/para/sua_imagem_financeiro.png)
 
-## Emissão de Certificados
+---
 
-![Educação ](imagens/emissao_certificado.png)
+## 👨‍💻 Desenvolvedor
+**Manuel Jesus M. Franco Feliu** *Estudante de Análise e Desenvolvimento de Sistemas (ADS)*
 
-## Certificado emitido
-
-![Consultas ](imagens/certificado_emitido.png)
-![Financeiro ](imagens/consulta_financeiro_pagamento)
-
-## Cobrança de mensalidade
-
-![Financeiro ](imagens/mensalidade.png)
-
-##Recibo da mensalidade
-
-![Financeiro ](imagens/recibo_mensalidade.png)
-
-
-
-
-
-
-
-
-
-
-
-Manuel Jesus M Franco Feliu
+---
+> **Nota:** Este projeto demonstra habilidades em modelagem de dados, automação de processos de negócio e desenvolvimento de interfaces de usuário (UI) em ambiente desktop.
