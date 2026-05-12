@@ -27,11 +27,11 @@ Substituir controles manuais por uma solução digital integrada, facilitando a 
 
 ### 🖥️ Dashboard Principal
 *Visão geral do sistema com acesso rápido aos módulos.*
-![Tela Principal](caminho/para/sua_imagem_principal.png)
+![Tela Principal](screenshots/tela_principal.png)
 
 ### 👥 Gestão de Alunos
 *Interface intuitiva para cadastro e consulta de membros.*
-![Cadastro de Alunos](caminho/para/sua_imagem_cadastro.png)
+![Cadastro de Alunos](screenshots/Cadastro_Alunos.png)
 
 ### 🎓 Graduação e Certificados
 *Processo de emissão de certificados após a troca de faixa.*
